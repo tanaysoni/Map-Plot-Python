@@ -6,6 +6,9 @@
 #  Author - Tanay Soni                            #
 #  ts398@kent.ac.uk                               #
 #                                                 #
+#  Here's a link to sample output image:          #   
+#  http://tinyurl.com/opar7pg                     #
+#                                                 #
 ###################################################
 
 from mpl_toolkits.basemap import Basemap
